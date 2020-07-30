@@ -157,8 +157,8 @@ You should also include information about which system (Mac/Windows/Linux) you u
 tried it more than once to confirm it gave the same results. Ideally, you will run this by a fellow student/labmate
 to confirm that they can obtain the same output file you did. 
 
-
-
+Concept:
+If you are wondering what a script or script is, you should know that in programming this term is used to refer to the source code written in some type of interpreted language (almost always).
 
 What you should expect from the analyst
 ====================
@@ -188,5 +188,6 @@ Contributors
 * [L. Collado-Torres](http://bit.ly/LColladoTorres) - Fixed typos, added links.
 * [Nick Reich](http://people.umass.edu/nick/) - Added tips on storing data as text.
 * [Nick Horton](https://www.amherst.edu/people/facstaff/nhorton) - Minor wording suggestions.
+
 
 
